@@ -36,7 +36,7 @@ export default function handler(req, res) {
        {
       id: 6,
       title: "تلاوة 6",
-      file_url: "https://YOUR-VERCEL-DOMAIN.vercel.app/quran6.mp3",
+      file_url: "https://quran-stream-zeta.vercel.app/quran6.mp3",
       sort_order: 6
     }
   ]);
